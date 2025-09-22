@@ -129,7 +129,7 @@ public class PlayerSelection {
 
 
 
-        //Report
+        //Player Report
         System.out.println("PLAYER REPORT");
         System.out.println("Player name: " + name);
         System.out.println("Age - " + age + " ( " + category + " )");
